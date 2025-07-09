@@ -1,0 +1,52 @@
+# ========== Android Studio ==========
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/misc.xml
+/.idea/dictionaries
+
+# ========== macOS ==========
+.DS_Store
+
+# ========== Windows ==========
+Thumbs.db
+
+# ========== Build ==========
+/build/
+/app/build/
+/captures/
+/outputs/
+/intermediates/
+/generated/
+/externalNativeBuild/
+/.cxx/
+/obj/
+
+# ========== Signing & Keys (Do NOT commit these) ==========
+*.jks
+*.keystore
+key.properties
+
+# ========== Firebase / Google Services ==========
+google-services.json
+firebase.json
+
+# ========== Logs / Temp ==========
+*.log
+*.tmp
+*.bak
+
+# ========== Jetpack Compose ==========
+compose.compiler.report
+
+# ========== Test / Reports ==========
+*.xml
+
+# ========== Navigation Editor Temp ==========
+navigation.json
