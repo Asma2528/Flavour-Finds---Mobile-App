@@ -66,7 +66,7 @@ Handled using **Retrofit**, parsed with **GSON**, and displayed via **RecyclerVi
 
 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/FlavorFinds.git
+  git clone https://github.com/Asma2528/Flavour-Finds---Mobile-App
 
 2. Open in Android Studio
 
